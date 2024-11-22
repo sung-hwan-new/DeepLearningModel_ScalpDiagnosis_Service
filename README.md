@@ -1,1 +1,2 @@
-# DeepLearningModel_ScalpDiagnosis_Service
+# 딥러닝을 통한 두피 진단과 두피케어 제품 추천 서비스 개발
+(작업 중⏳)
