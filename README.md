@@ -18,7 +18,7 @@
 5. 진단 결과 및 설문에 따른 제품 추천 및 증상에 유효한 성분 안내
 
 ### 결과(Model Accuracy)
-- 모낭 사이 홍반(93.2%), 모낭 홍반 농포(89.5%), 미세 각질(84%), 비듬(92.7%), 탈모(93.5%), 피지 과다 (92.6%)
+- 모낭 사이 홍반(93.2%), 모낭 홍반 농포(89.5%), 미세 각질(84%), 비듬(92.7%), 탈모(93.5%), 피지 과다(92.6%)
 
 ### 세부 내용
 [<img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />](https://velog.io/@sung_hwan_new/CnnDeepLearningScalpDiagnosis)
